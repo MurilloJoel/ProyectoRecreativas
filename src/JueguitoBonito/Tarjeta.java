@@ -7,7 +7,7 @@ package JueguitoBonito;
 
 /**
  *
- * @author developer
+ * @author joel patricia y leonor
  */
 public class Tarjeta {
     
