@@ -3,10 +3,8 @@ package JueguitoBonito;
 
 /**
     *
- 
-
     @author Joel Murillo
-        @author Patricia Jiménez
+        @author Patricia Jiménez (◉Θ◉)
         @author Leonor Machicado
     */
 
