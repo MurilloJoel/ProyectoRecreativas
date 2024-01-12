@@ -6,7 +6,7 @@ package JueguitoBonito;
     @author Leonor Machicado
     */
 
-public class Premio{
+public class Premios{
     
     //atributos
     
@@ -47,7 +47,7 @@ public class Premio{
         return "Premio{" + "premio=" + premio + ", precio=" + precio + ", stock=" + stock + '}';
     }
     
-    public Premio(String premio, int precio, int stock){
+    public Premios(String premio, int precio, int stock){
         this.premio = premio;
         this.precio = precio;
         this.stock = stock;

@@ -5,7 +5,7 @@ package JueguitoBonito;
     @author Joel Murillo 
         @author Patricia Jiménez (◉Θ◉)
         @author Leonor Machicado
-    */
+*/
 
 public class Juego 
 {
