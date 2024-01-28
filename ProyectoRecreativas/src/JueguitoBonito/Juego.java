@@ -22,6 +22,13 @@ public class Juego
     }
 
     //MÉTODO JUGAR
+    
+    /**
+     * 
+     * @param t Parametro que representa una Tarjeta.
+     * @return devuelve un true si puedes jugar y un false si no tienes suficientes creditos
+     */
+    
     public boolean jugar (Tarjeta t)
     {       
         //Hace comprobaciones y saca mensajes
